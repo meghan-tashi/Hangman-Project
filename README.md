@@ -8,24 +8,17 @@ A fun and interactive **Hangman** game built with **Java Swing**! This project f
 - 🔠 Random word and hint selection from a predefined word list
 - 🔊 Chalkboard-style sound effects
 - 🖼️ Custom fonts and images (board, hangman stages, faces)
-- 👨‍💻 Modular code structure using MVC-style separation
 
 ## 🔧 How to Run
 
 ### 🖥️ Requirements
 - Java JDK 17 or higher
-- Any Java IDE (IntelliJ IDEA, VS Code, Eclipse)
+- Any Java IDE (IntelliJ IDEA)
 
 ### ▶️ Steps
 1. Open the project in your Java IDE.
 2. Open `Main.java`.
 3. **Click the “Run” button** in your IDE – no command line needed!
-
-
----
-- Use `=` to separate the word from hints.
-- Use `+` to separate multiple hints.
-- You can edit or extend the list freely.
 
 ---
 
