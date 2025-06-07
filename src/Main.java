@@ -13,7 +13,7 @@ public class Main {
         AudioClip.init();
 
         // This creates a JFrame
-        Window.init("Hangman in javax.swing (Advaitya01, Mizab06, Raj55, Rizwan63)");
+        Window.init("Hangman in javax.swing (Advaitya01, Meghan02, Sagar03 , Vinayak04)");
         GameContainer.instance.init();
         MenuContainer.instance.init();
         Window.create("Backgrounds/board");
